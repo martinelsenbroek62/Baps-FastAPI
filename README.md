@@ -4,7 +4,7 @@
 
 ## Development
 This project is intended to be developed in Docker and setup already
-for vscode devcontainers (see `./.devcontainer`).
+for vscode.
 
 The containers can also be built and run using `docker-compose`.
 ```bash
